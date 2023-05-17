@@ -1,0 +1,7 @@
+# Python venv
+venv/
+
+# Data directories
+pharma-sales/
+prescribers-geo-drug/
+prescribers-provider-drug/
